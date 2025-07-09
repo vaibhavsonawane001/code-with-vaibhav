@@ -1,0 +1,19 @@
+#imp commands
+pwd
+commands
+ls
+mkdir (mkdir -r, mkdir -d)
+touch
+clear
+history
+rm 1.txt
+cp
+mv
+nano 1.txt
+man
+exit
+whoami
+date
+vim
+curl
+sudo apt install
